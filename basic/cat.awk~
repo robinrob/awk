@@ -1,5 +1,0 @@
-#!/usr/lib/awk -f
-
-#emulates function of cat command.
-
-{ print }

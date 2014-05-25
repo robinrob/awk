@@ -1,5 +1,0 @@
-#!/bin/bash
-
-#here's how to use a file containing an
-#awk program in a script.
-awk -f hello.awk
